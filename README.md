@@ -4,7 +4,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=baekjiyeon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-####  :wave:Welcome my github profile
+###  👋 Welcome my github profile 👋
+
 <br>
 [email ]qorwldus8283@naver.com
 <br>
