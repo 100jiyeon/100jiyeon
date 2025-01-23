@@ -6,10 +6,10 @@
 
 ####  :wave:Welcome my github profile
 <br>
-[email]qorwldus8283@naver.com
+[email ]qorwldus8283@naver.com
 <br>
 
-[notion]https://www.notion.so/46049133b0b04f0c8600aa8e4e2de2f7
+[notion] https://www.notion.so/46049133b0b04f0c8600aa8e4e2de2f7
 <br>
 <br>
 
