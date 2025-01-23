@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=beakjiyeon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=baekjiyeon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 ####  :wave:Welcome my github profile
 <br>
