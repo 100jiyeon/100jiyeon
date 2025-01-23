@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Hi there 👋
+
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=beakjiyeon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
